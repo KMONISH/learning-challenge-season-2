@@ -1,0 +1,8 @@
+DocumentatioN
+LAMBDA FUNCTION:The map() function in Python takes in a function and a list as argument and new list is returned which contains all the lambda.
+
+DECORATORS :In Decorators functions are taken as the argument into another function and then called inside the wrapper function.
+
+FILTERS: The filter() method filters the given sequence with the help of a function that tests each element in the sequence to be true or not.
+
+GARBAGE COLLECTORS:  Pythons memory allocation and deallocation method is automatic. The user does not have to preallocate or deallocate memory.

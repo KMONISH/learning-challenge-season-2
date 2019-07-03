@@ -1,0 +1,12 @@
+Documentation of Advance python
+topics
+->IS operation.
+->id() function.
+->files:
+  ->reading files  -function reading the file.
+  ->opening files  -function opening the file.
+  ->writing files  -function writing the file
+
+IS operation : The == operator compares the values of both the operands and checks for value equality. Whereas is operator checks whether both the operands refer to the same object or not.
+
+Id() function : Two objects with non-overlapping lifetimes may have the same id() value. If we relate this to C, then they are actually the memory address, here in Python it is the unique id. This function is generally used internally in Python.

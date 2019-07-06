@@ -1,0 +1,18 @@
+->array_concept
+   -array.
+   -removing array.
+   -reverse array.
+
+->list_concept
+  -addtion of list.
+  -append list.
+  -insert list.
+  -remove list.
+
+->operations.
+
+->swaping
+ -swaping 2 variables basic method.
+ -swaping 2 variables easy method.
+ -swaping 3 variables.
+
